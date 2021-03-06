@@ -2,5 +2,5 @@
 
 
 
-- 🌱 I’m currently learning: JAVASCRIPT,HTML, CSS
+- 🌱 I’m currently learning: JAVASCRIPT, HTML, CSS
 - 📫 How to reach me: @Mxawll
